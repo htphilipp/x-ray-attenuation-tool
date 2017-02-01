@@ -18,3 +18,5 @@ Again, it works with both windows and linux.
 There might be bugs.  If you don't point to the data directory with the environmental variable it will complain.  In linux I keep the data in the /usr/local/share/Xdat/ director.
 
 - Hugh.
+
+p.s.  Oh yea.  You need QT installed and this uses qtcustom plot for graphing.  It will compile fine at the command line in linux - haven't tried it in windows (10) and it compiles fine in qtcreator on both OS's.  Also - this is intended to by open source and GPL... 
