@@ -12,6 +12,7 @@ TARGET = xrayMFPv1
 TEMPLATE = app
 
 #for distribution.
+#testing qtcreator integration with github
 #
 CONFIG += static
 CONFIG += static-runtime
